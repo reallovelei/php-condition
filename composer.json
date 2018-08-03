@@ -1,0 +1,11 @@
+{
+    "name": "vendor/php-condition",
+    "description": "php-condition",
+    "authors": [
+        {
+            "name": "nemolzhang",
+            "email": "nemolzhang@tencent.com"
+        }
+    ],
+    "require": {}
+}
